@@ -8,10 +8,6 @@ I'm a developer with a passion for writing clean, efficient code and building in
 
 ![dterbah's GitHub stats](https://github-readme-stats.vercel.app/api?username=dterbah&show_icons=true&hide_title=true)
 
-## My Recent Contributions
-
-![dterbah's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dterbah)
-
 ## Languages I Use
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dterbah&layout=compact)
