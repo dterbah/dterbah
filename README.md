@@ -1,4 +1,4 @@
-# Hi, I'm dterbah 👋
+# Hi, I'm Dorian TERBAH 👋
 
 Welcome to my GitHub profile!
 
