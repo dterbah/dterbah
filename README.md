@@ -4,6 +4,11 @@ Welcome to my GitHub profile!
 
 I'm a developer with a passion for writing clean, efficient code and building interesting projects. Here’s a glimpse into my work and activity on GitHub.
 
+Here are the different organizations I'm working with :
+
+- 🔧 [zencode](https://github.com/ZenDocLabs) – Documentation generator for Go projects
+- 🔧 [konect](https://github.com/KonectTeam) – NoCode app to build complex workflow
+
 ## GitHub Stats
 
 ![dterbah's GitHub stats](https://github-readme-stats.vercel.app/api?username=dterbah&show_icons=true&hide_title=true)
